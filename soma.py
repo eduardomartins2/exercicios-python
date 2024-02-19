@@ -1,5 +1,8 @@
-print("Hello world")
-n1 = int(input("informe um numero: "))
-n2 = int(input("informe outro numero: "))
-soma = n1 + n2
-print(f"A soma de {n1} + {n2} é: {soma}")
+print("Hello World")
+
+A = int(input("Informe um numero: "))
+B = int(input("Informe outro numero: "))
+
+soma = A + B
+
+print(f"A soma de {A} + {B} é: {soma}")

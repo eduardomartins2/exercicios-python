@@ -1,10 +1,10 @@
 emp = int(input())
 
-Horas = int(input())
+hour = int(input())
 
 value = float(input())
 
-salary = Horas * value
+salary = hour * value
 
 print("NUMBER =", emp)
 print("SALARY = US {:.2f}".format(salary))
